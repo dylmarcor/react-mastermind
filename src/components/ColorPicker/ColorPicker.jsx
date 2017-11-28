@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ColorPicker = (color) => {
+const ColorPicker = (props) => {
     return (
         <div>
             This is a color.
